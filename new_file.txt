@@ -1,1 +1,4 @@
-﻿И звали их: first, second developer,  mr. third developer.
+﻿
+﻿Жили-были 3 разработчика.
+И звали их: first developer, second developer, mr. third.
+
